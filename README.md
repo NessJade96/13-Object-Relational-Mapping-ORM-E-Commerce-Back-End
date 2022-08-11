@@ -36,3 +36,5 @@ GitHub: https://github.com/NessJade96/13-Object-Relational-Mapping-ORM-E-Commerc
 3. Went through and populated the code into the api files, most of this code is just copy and paste - I have not updated them to work inside each api file.
 
 4. Got the Categories api route working, insomnia requests are functioning (get, post, put, delete).
+
+5. The products api route working, insomnia requests are functioning (get, post, put, delete).
